@@ -115,3 +115,37 @@ nav a {
     border: 1px solid black;
     background-color: white;
 }
+.section {
+    margin: 50px auto 50px auto;
+    width: 90%;
+    border: 1px solid black;
+    background-color: white;
+}
+.title {
+    width: 100%;
+    border-bottom: 1px dotted black;
+    padding:20px 0px;
+    margin: 0px;
+    text-align: center;
+    text-decoration: underline;
+}
+.anchor {
+    position: relative;
+    left: 0px;
+    top: -80px;
+}
+.font-label {
+    font-size: 1.5rem;
+}
+.regular {
+    font-style: normal;
+}
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: 700;
+}
+.roboto {
+    font-family: Roboto, sans-serif; 
+}
