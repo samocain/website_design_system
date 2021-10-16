@@ -149,3 +149,27 @@ nav a {
 .roboto {
     font-family: Roboto, sans-serif; 
 }
+.pt-sans {
+    font-family: PT Sans, sans-serif;
+}
+.rubik {
+    font-family: Rubik, monospace;
+}
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: Roboto, sans-serif;
+}
+.text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: PT Sans, sans-serif;
+}
+.text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif
+}
+.text-panel {
+    margin: 20px;
+}
